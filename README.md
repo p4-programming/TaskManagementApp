@@ -52,4 +52,7 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/p4-programming/TaskManagementApp.git
+
+2. **Screen Recording:**
+   https://drive.google.com/file/d/1tDJbr3vpvi7EUv8ZyJVq_hWqnguFr9_B/view?usp=sharing
    
