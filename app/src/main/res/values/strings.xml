@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TaskManagement</string>
+    <string name="add_task">Add Task</string>
+    <string name="no_date_selected">No date selected</string>
+    <string name="floating_text">Add Task</string>
+    <string name="low_priority">Low Priority</string>
+    <string name="medium_priority">Medium Priority</string>
+    <string name="high_priority">High Priority</string>
+    <string name="save_task">Save Task</string>
+    <string name="select_due_date">Select Due Date</string>
+    <string name="task_description">Task Description</string>
+    <string name="task_title">Task Title</string>
+    <string name="due_date">Due: 12/12/2024 10:00</string>
+    <string name="time_left">Time Left: 0s</string>
+    <string name="completion_status">Completion Status</string>
+    <string name="all_Task">Show All Task</string>
+    <string name="sort_by_priority">Sort By Priority</string>
+</resources>

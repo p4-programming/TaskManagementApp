@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/short_Priority"
+        android:title="@string/sort_by_priority"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/completion_Status"
+        android:title="@string/completion_status"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/show_all_task"
+        android:title="@string/all_Task"
+        app:showAsAction="never" />
+</menu>
